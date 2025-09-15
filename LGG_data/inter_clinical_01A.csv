@@ -1,0 +1,292 @@
+"X","futime","fustat","Entity_ID","ID","Age","Ethnicity","Gender","Race","days_to_death","days_to_last_follow_up","Stage","T","M","N","Treatment","month","outcome"
+"TCGA-HT-8013-01A-11R-2403-07",1933,1,"TCGA-HT-8013-01A-11R-2403-07","TCGA-HT-8013",37,"not hispanic or latino","female","white","1933","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",64,1
+"TCGA-WY-A858-01A-11R-A36H-07",1337,0,"TCGA-WY-A858-01A-11R-A36H-07","TCGA-WY-A858",32,"not reported","female","white","'--","1337","'--","'--","'--","'--","Radiation Therapy, NOS",45,1
+"TCGA-DU-6393-01A-11R-1708-07",1585,1,"TCGA-DU-6393-01A-11R-1708-07","TCGA-DU-6393",66,"not hispanic or latino","male","white","1585","'--","'--","'--","'--","'--","Radiation Therapy, NOS",53,1
+"TCGA-DU-6397-01A-11R-1708-07",1401,1,"TCGA-DU-6397-01A-11R-1708-07","TCGA-DU-6397",45,"not hispanic or latino","male","white","1401","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",47,1
+"TCGA-DB-A75O-01A-11R-A32Q-07",935,0,"TCGA-DB-A75O-01A-11R-A32Q-07","TCGA-DB-A75O",29,"not hispanic or latino","male","white","'--","935","'--","'--","'--","'--","Radiation Therapy, NOS",31,1
+"TCGA-DB-A64O-01A-11R-A29R-07",775,1,"TCGA-DB-A64O-01A-11R-A29R-07","TCGA-DB-A64O",59,"not hispanic or latino","male","white","775","573","'--","'--","'--","'--","Radiation Therapy, NOS",26,1
+"TCGA-WY-A859-01A-12R-A36H-07",1213,0,"TCGA-WY-A859-01A-12R-A36H-07","TCGA-WY-A859",34,"not reported","female","white","'--","1213","'--","'--","'--","'--","Radiation Therapy, NOS",40,1
+"TCGA-DB-A64P-01A-11R-A29R-07",916,0,"TCGA-DB-A64P-01A-11R-A29R-07","TCGA-DB-A64P",40,"not hispanic or latino","male","white","'--","916","'--","'--","'--","'--","Radiation Therapy, NOS",31,1
+"TCGA-DB-A64S-01A-11R-A29R-07",835,0,"TCGA-DB-A64S-01A-11R-A29R-07","TCGA-DB-A64S",20,"not hispanic or latino","male","white","'--","835","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",28,1
+"TCGA-DU-8161-01A-11R-2256-07",722,1,"TCGA-DU-8161-01A-11R-2256-07","TCGA-DU-8161",63,"not hispanic or latino","female","white","722","'--","'--","'--","'--","'--","Radiation Therapy, NOS",24,0
+"TCGA-S9-A6U0-01A-12R-A32Q-07",742,1,"TCGA-S9-A6U0-01A-12R-A32Q-07","TCGA-S9-A6U0",46,"not hispanic or latino","male","white","742","698","'--","'--","'--","'--","Radiation Therapy, NOS",25,1
+"TCGA-E1-A7YL-01A-11R-A34F-07",492,1,"TCGA-E1-A7YL-01A-11R-A34F-07","TCGA-E1-A7YL",46,"not hispanic or latino","male","white","492","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",16,0
+"TCGA-EZ-7264-01A-11R-2027-07",1201,0,"TCGA-EZ-7264-01A-11R-2027-07","TCGA-EZ-7264",47,"not hispanic or latino","female","white","'--","1201","'--","'--","'--","'--","Radiation Therapy, NOS",40,1
+"TCGA-CS-5397-01A-01R-1896-07",194,1,"TCGA-CS-5397-01A-01R-1896-07","TCGA-CS-5397",54,"not hispanic or latino","female","white","194","'--","'--","'--","'--","'--","Radiation Therapy, NOS",6,0
+"TCGA-TQ-A7RM-01A-11R-A33Z-07",1116,0,"TCGA-TQ-A7RM-01A-11R-A33Z-07","TCGA-TQ-A7RM",41,"hispanic or latino","female","white","'--","1116","'--","'--","'--","'--","Radiation Therapy, NOS",37,1
+"TCGA-S9-A6UA-01A-12R-A33Z-07",178,1,"TCGA-S9-A6UA-01A-12R-A33Z-07","TCGA-S9-A6UA",66,"not hispanic or latino","male","white","178","'--","'--","'--","'--","'--","Radiation Therapy, NOS",6,0
+"TCGA-IK-7675-01A-11R-2090-07",578,1,"TCGA-IK-7675-01A-11R-2090-07","TCGA-IK-7675",43,"hispanic or latino","male","white","578","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",19,0
+"TCGA-HT-7858-01A-11R-2403-07",1540,0,"TCGA-HT-7858-01A-11R-2403-07","TCGA-HT-7858",28,"not hispanic or latino","male","white","'--","1540","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",51,1
+"TCGA-S9-A6TW-01A-12R-A32Q-07",1250,0,"TCGA-S9-A6TW-01A-12R-A32Q-07","TCGA-S9-A6TW",40,"not hispanic or latino","male","white","'--","1250","'--","'--","'--","'--","Radiation Therapy, NOS",42,1
+"TCGA-DB-5278-01A-01R-1470-07",2772,0,"TCGA-DB-5278-01A-01R-1470-07","TCGA-DB-5278",17,"not hispanic or latino","male","white","'--","2772","'--","'--","'--","'--","Radiation Therapy, NOS",92,1
+"TCGA-HW-7487-01A-11R-2027-07",1382,0,"TCGA-HW-7487-01A-11R-2027-07","TCGA-HW-7487",39,"not hispanic or latino","male","white","'--","1382","'--","'--","'--","'--","Radiation Therapy, NOS",46,1
+"TCGA-E1-5302-01A-01R-1470-07",1525,1,"TCGA-E1-5302-01A-01R-1470-07","TCGA-E1-5302",41,"not hispanic or latino","male","white","1525","'--","'--","'--","'--","'--","Radiation Therapy, NOS",51,1
+"TCGA-DU-6396-01A-11R-1708-07",2286,1,"TCGA-DU-6396-01A-11R-1708-07","TCGA-DU-6396",31,"not hispanic or latino","female","white","2286","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",76,1
+"TCGA-R8-A6MK-01A-11R-A32Q-07",2702,0,"TCGA-R8-A6MK-01A-11R-A32Q-07","TCGA-R8-A6MK",40,"not hispanic or latino","male","white","'--","2702","'--","'--","'--","'--","Radiation Therapy, NOS",90,1
+"TCGA-S9-A7R1-01A-12R-A34R-07",5166,1,"TCGA-S9-A7R1-01A-12R-A34R-07","TCGA-S9-A7R1",35,"not hispanic or latino","male","white","5166","5000","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",172,1
+"TCGA-RY-A847-01A-11R-A36H-07",933,0,"TCGA-RY-A847-01A-11R-A36H-07","TCGA-RY-A847",45,"not hispanic or latino","male","white","'--","933","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",31,1
+"TCGA-DB-A4XE-01A-11R-A27Q-07",1139,0,"TCGA-DB-A4XE-01A-11R-A27Q-07","TCGA-DB-A4XE",27,"not hispanic or latino","female","white","'--","1139","'--","'--","'--","'--","Radiation Therapy, NOS",38,1
+"TCGA-TM-A7C5-01A-11R-A32Q-07",1500,0,"TCGA-TM-A7C5-01A-11R-A32Q-07","TCGA-TM-A7C5",30,"not hispanic or latino","male","white","'--","1500","'--","'--","'--","'--","Radiation Therapy, NOS",50,1
+"TCGA-S9-A6UB-01A-21R-A33Z-07",3761,0,"TCGA-S9-A6UB-01A-21R-A33Z-07","TCGA-S9-A6UB",52,"not hispanic or latino","male","white","'--","3761","'--","'--","'--","'--","Radiation Therapy, NOS",125,1
+"TCGA-E1-A7YK-01A-11R-A34F-07",378,1,"TCGA-E1-A7YK-01A-11R-A34F-07","TCGA-E1-A7YK",52,"not hispanic or latino","male","white","378","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",13,0
+"TCGA-DU-A6S6-01A-21R-A32Q-07",2893,0,"TCGA-DU-A6S6-01A-21R-A32Q-07","TCGA-DU-A6S6",35,"not hispanic or latino","female","white","'--","2893","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",96,1
+"TCGA-S9-A6WG-01A-11R-A33Z-07",2602,0,"TCGA-S9-A6WG-01A-11R-A33Z-07","TCGA-S9-A6WG",31,"not hispanic or latino","male","white","'--","2602","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",87,1
+"TCGA-DU-7298-01A-11R-2027-07",576,1,"TCGA-DU-7298-01A-11R-2027-07","TCGA-DU-7298",38,"not hispanic or latino","female","black or african american","576","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",19,0
+"TCGA-S9-A6TU-01A-12R-A32Q-07",2650,0,"TCGA-S9-A6TU-01A-12R-A32Q-07","TCGA-S9-A6TU",38,"not hispanic or latino","male","white","'--","2650","'--","'--","'--","'--","Radiation Therapy, NOS",88,1
+"TCGA-E1-A7Z6-01A-11R-A34R-07",984,1,"TCGA-E1-A7Z6-01A-11R-A34R-07","TCGA-E1-A7Z6",41,"not hispanic or latino","female","white","984","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",33,1
+"TCGA-DH-5141-01A-01R-1470-07",968,0,"TCGA-DH-5141-01A-01R-1470-07","TCGA-DH-5141",32,"hispanic or latino","male","white","'--","968","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",32,1
+"TCGA-HW-8319-01A-11R-2404-07",1209,1,"TCGA-HW-8319-01A-11R-2404-07","TCGA-HW-8319",34,"not hispanic or latino","female","white","1209","660","'--","'--","'--","'--","Radiation Therapy, NOS",40,1
+"TCGA-CS-4941-01A-01R-1470-07",234,1,"TCGA-CS-4941-01A-01R-1470-07","TCGA-CS-4941",67,"not hispanic or latino","male","white","234","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",8,0
+"TCGA-S9-A7R7-01A-11R-A34R-07",3000,0,"TCGA-S9-A7R7-01A-11R-A34R-07","TCGA-S9-A7R7",27,"not hispanic or latino","male","white","'--","3000","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",100,1
+"TCGA-S9-A6TX-01A-21R-A32Q-07",1245,0,"TCGA-S9-A6TX-01A-21R-A32Q-07","TCGA-S9-A6TX",46,"not hispanic or latino","male","white","'--","1245","'--","'--","'--","'--","Radiation Therapy, NOS",42,1
+"TCGA-HT-8018-01A-11R-2404-07",1152,1,"TCGA-HT-8018-01A-11R-2404-07","TCGA-HT-8018",40,"not hispanic or latino","female","white","1152","654","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",38,1
+"TCGA-TM-A84I-01A-11R-A36H-07",854,0,"TCGA-TM-A84I-01A-11R-A36H-07","TCGA-TM-A84I",30,"not hispanic or latino","male","white","'--","854","'--","'--","'--","'--","Radiation Therapy, NOS",28,1
+"TCGA-DB-5275-01A-01R-1470-07",1458,0,"TCGA-DB-5275-01A-01R-1470-07","TCGA-DB-5275",36,"not hispanic or latino","male","white","'--","1458","'--","'--","'--","'--","Radiation Therapy, NOS",49,1
+"TCGA-DU-7011-01A-11R-2027-07",3200,1,"TCGA-DU-7011-01A-11R-2027-07","TCGA-DU-7011",25,"not hispanic or latino","male","white","3200","'--","'--","'--","'--","'--","Radiation Therapy, NOS",107,1
+"TCGA-S9-A7IS-01A-11R-A34F-07",241,1,"TCGA-S9-A7IS-01A-11R-A34F-07","TCGA-S9-A7IS",33,"not hispanic or latino","female","white","241","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",8,0
+"TCGA-CS-6667-01A-12R-2027-07",1469,0,"TCGA-CS-6667-01A-12R-2027-07","TCGA-CS-6667",39,"not hispanic or latino","female","white","'--","1469","'--","'--","'--","'--","Radiation Therapy, NOS",49,1
+"TCGA-R8-A6MO-01A-11R-A33Z-07",993,0,"TCGA-R8-A6MO-01A-11R-A33Z-07","TCGA-R8-A6MO",53,"not hispanic or latino","female","asian","'--","993","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",33,1
+"TCGA-FG-A4MT-01A-11R-A26U-07",1164,0,"TCGA-FG-A4MT-01A-11R-A26U-07","TCGA-FG-A4MT",27,"not hispanic or latino","female","white","'--","1164","'--","'--","'--","'--","Radiation Therapy, NOS",39,1
+"TCGA-DH-A66D-01A-11R-A31N-07",846,0,"TCGA-DH-A66D-01A-11R-A31N-07","TCGA-DH-A66D",43,"not hispanic or latino","female","white","'--","846","'--","'--","'--","'--","Radiation Therapy, NOS",28,1
+"TCGA-HT-7902-01A-12R-2403-07",956,0,"TCGA-HT-7902-01A-12R-2403-07","TCGA-HT-7902",30,"not hispanic or latino","female","white","'--","956","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",32,1
+"TCGA-DB-5270-01A-02R-1470-07",3733,0,"TCGA-DB-5270-01A-02R-1470-07","TCGA-DB-5270",38,"not hispanic or latino","female","white","'--","3733","'--","'--","'--","'--","Radiation Therapy, NOS",124,1
+"TCGA-E1-5311-01A-01R-1470-07",4084,1,"TCGA-E1-5311-01A-01R-1470-07","TCGA-E1-5311",31,"not hispanic or latino","male","white","4084","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",136,1
+"TCGA-DH-5140-01A-01R-1470-07",607,1,"TCGA-DH-5140-01A-01R-1470-07","TCGA-DH-5140",38,"not hispanic or latino","female","white","607","'--","'--","'--","'--","'--","Radiation Therapy, NOS",20,0
+"TCGA-DU-7013-01A-11R-2027-07",269,1,"TCGA-DU-7013-01A-11R-2027-07","TCGA-DU-7013",59,"not hispanic or latino","male","white","269","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",9,0
+"TCGA-RY-A840-01A-11R-A36H-07",854,0,"TCGA-RY-A840-01A-11R-A36H-07","TCGA-RY-A840",47,"not reported","male","not reported","'--","854","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",28,1
+"TCGA-CS-6669-01A-11R-1896-07",1494,0,"TCGA-CS-6669-01A-11R-1896-07","TCGA-CS-6669",26,"not reported","female","white","'--","1494","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",50,1
+"TCGA-HT-7602-01A-21R-2090-07",908,0,"TCGA-HT-7602-01A-21R-2090-07","TCGA-HT-7602",21,"not hispanic or latino","male","white","'--","908","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",30,1
+"TCGA-CS-6665-01A-11R-1896-07",1568,0,"TCGA-CS-6665-01A-11R-1896-07","TCGA-CS-6665",51,"not hispanic or latino","female","white","'--","1568","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",52,1
+"TCGA-E1-A7YO-01A-11R-A34F-07",2282,1,"TCGA-E1-A7YO-01A-11R-A34F-07","TCGA-E1-A7YO",45,"not hispanic or latino","male","white","2282","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",76,1
+"TCGA-FG-6691-01A-11R-1896-07",1257,0,"TCGA-FG-6691-01A-11R-1896-07","TCGA-FG-6691",23,"not hispanic or latino","female","white","'--","1257","'--","'--","'--","'--","Radiation Therapy, NOS",42,1
+"TCGA-HT-7882-01A-11R-2403-07",113,1,"TCGA-HT-7882-01A-11R-2403-07","TCGA-HT-7882",66,"hispanic or latino","male","white","113","52","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",4,0
+"TCGA-DU-7018-01A-11R-2027-07",933,1,"TCGA-DU-7018-01A-11R-2027-07","TCGA-DU-7018",57,"not hispanic or latino","female","white","933","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",31,1
+"TCGA-DB-A64R-01A-11R-A29R-07",955,0,"TCGA-DB-A64R-01A-11R-A29R-07","TCGA-DB-A64R",24,"hispanic or latino","female","not reported","'--","955","'--","'--","'--","'--","Radiation Therapy, NOS",32,1
+"TCGA-HT-7874-01A-11R-2403-07",1130,0,"TCGA-HT-7874-01A-11R-2403-07","TCGA-HT-7874",41,"not hispanic or latino","female","white","'--","1130","'--","'--","'--","'--","Radiation Therapy, NOS",38,1
+"TCGA-WY-A85A-01A-21R-A36H-07",1320,0,"TCGA-WY-A85A-01A-21R-A36H-07","TCGA-WY-A85A",20,"not reported","male","white","'--","1320","'--","'--","'--","'--","Radiation Therapy, NOS",44,1
+"TCGA-E1-5318-01A-01R-1470-07",2379,1,"TCGA-E1-5318-01A-01R-1470-07","TCGA-E1-5318",42,"not hispanic or latino","female","white","2379","2379","'--","'--","'--","'--","Radiation Therapy, NOS",79,1
+"TCGA-VV-A829-01A-21R-A36H-07",1127,0,"TCGA-VV-A829-01A-21R-A36H-07","TCGA-VV-A829",44,"not hispanic or latino","male","white","'--","1127","'--","'--","'--","'--","Radiation Therapy, NOS",38,1
+"TCGA-DB-5279-01A-03R-2347-07",1354,0,"TCGA-DB-5279-01A-03R-2347-07","TCGA-DB-5279",59,"not reported","male","not reported","'--","1354","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",45,1
+"TCGA-HT-8563-01A-11R-2404-07",860,0,"TCGA-HT-8563-01A-11R-2404-07","TCGA-HT-8563",30,"not hispanic or latino","female","white","'--","860","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",29,1
+"TCGA-HT-7686-01A-11R-2256-07",1300,0,"TCGA-HT-7686-01A-11R-2256-07","TCGA-HT-7686",29,"not hispanic or latino","female","white","'--","1300","'--","'--","'--","'--","Radiation Therapy, NOS",43,1
+"TCGA-E1-5304-01A-01R-1470-07",1251,1,"TCGA-E1-5304-01A-01R-1470-07","TCGA-E1-5304",42,"not hispanic or latino","male","white","1251","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",42,1
+"TCGA-HT-7483-01A-11R-2027-07",5255,0,"TCGA-HT-7483-01A-11R-2027-07","TCGA-HT-7483",14,"not hispanic or latino","male","white","'--","5255","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",175,1
+"TCGA-VM-A8C8-01A-11R-A36H-07",1397,0,"TCGA-VM-A8C8-01A-11R-A36H-07","TCGA-VM-A8C8",50,"not reported","female","white","'--","1397","'--","'--","'--","'--","Radiation Therapy, NOS",47,1
+"TCGA-E1-A7YN-01A-11R-A34F-07",727,1,"TCGA-E1-A7YN-01A-11R-A34F-07","TCGA-E1-A7YN",63,"not hispanic or latino","female","white","727","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",24,0
+"TCGA-HT-A5RA-01A-11R-A28M-07",832,0,"TCGA-HT-A5RA-01A-11R-A28M-07","TCGA-HT-A5RA",65,"not hispanic or latino","female","white","'--","832","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",28,1
+"TCGA-W9-A837-01A-11R-A36H-07",1553,0,"TCGA-W9-A837-01A-11R-A36H-07","TCGA-W9-A837",47,"not hispanic or latino","male","white","'--","1553","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",52,1
+"TCGA-CS-6666-01A-11R-1896-07",1428,0,"TCGA-CS-6666-01A-11R-1896-07","TCGA-CS-6666",22,"not hispanic or latino","male","white","'--","1428","'--","'--","'--","'--","Radiation Therapy, NOS",48,1
+"TCGA-DU-A5TU-01A-11R-A28M-07",796,0,"TCGA-DU-A5TU-01A-11R-A28M-07","TCGA-DU-A5TU",62,"not hispanic or latino","female","white","'--","796","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",27,1
+"TCGA-DH-A7UR-01A-11R-A33Z-07",1650,0,"TCGA-DH-A7UR-01A-11R-A33Z-07","TCGA-DH-A7UR",59,"not hispanic or latino","female","white","'--","1650","'--","'--","'--","'--","Radiation Therapy, NOS",55,1
+"TCGA-E1-A7YV-01A-11R-A34R-07",987,1,"TCGA-E1-A7YV-01A-11R-A34R-07","TCGA-E1-A7YV",26,"not hispanic or latino","female","white","987","'--","'--","'--","'--","'--","Radiation Therapy, NOS",33,1
+"TCGA-DH-5144-01A-01R-1470-07",748,0,"TCGA-DH-5144-01A-01R-1470-07","TCGA-DH-5144",56,"not hispanic or latino","female","white","'--","748","'--","'--","'--","'--","Radiation Therapy, NOS",25,1
+"TCGA-TM-A7C3-01A-11R-A32Q-07",1666,1,"TCGA-TM-A7C3-01A-11R-A32Q-07","TCGA-TM-A7C3",43,"not hispanic or latino","female","white","1666","1504","'--","'--","'--","'--","Radiation Therapy, NOS",56,1
+"TCGA-S9-A7IX-01A-12R-A34F-07",819,1,"TCGA-S9-A7IX-01A-12R-A34F-07","TCGA-S9-A7IX",57,"not hispanic or latino","male","white","819","679","'--","'--","'--","'--","Radiation Therapy, NOS",27,1
+"TCGA-HT-A61C-01A-11R-A29R-07",537,1,"TCGA-HT-A61C-01A-11R-A29R-07","TCGA-HT-A61C",66,"not hispanic or latino","male","white","537","103","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",18,0
+"TCGA-DH-A7UT-01A-12R-A34F-07",531,1,"TCGA-DH-A7UT-01A-12R-A34F-07","TCGA-DH-A7UT",30,"not hispanic or latino","male","white","531","407","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",18,0
+"TCGA-HT-7479-01A-11R-2027-07",1227,0,"TCGA-HT-7479-01A-11R-2027-07","TCGA-HT-7479",44,"not hispanic or latino","male","white","'--","1227","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",41,1
+"TCGA-S9-A7R2-01A-21R-A34R-07",316,1,"TCGA-S9-A7R2-01A-21R-A34R-07","TCGA-S9-A7R2",69,"not hispanic or latino","male","white","316","'--","'--","'--","'--","'--","Radiation Therapy, NOS",11,0
+"TCGA-HT-7681-01A-11R-2403-07",1359,0,"TCGA-HT-7681-01A-11R-2403-07","TCGA-HT-7681",29,"not hispanic or latino","female","white","'--","1359","'--","'--","'--","'--","Radiation Therapy, NOS",45,1
+"TCGA-DU-A7TC-01A-21R-A34R-07",1137,0,"TCGA-DU-A7TC-01A-21R-A34R-07","TCGA-DU-A7TC",32,"not hispanic or latino","male","white","'--","1137","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",38,1
+"TCGA-HT-7481-01A-11R-2027-07",2918,0,"TCGA-HT-7481-01A-11R-2027-07","TCGA-HT-7481",39,"not hispanic or latino","male","white","'--","2918","'--","'--","'--","'--","Radiation Therapy, NOS",97,1
+"TCGA-S9-A7R4-01A-12R-A34R-07",914,0,"TCGA-S9-A7R4-01A-12R-A34R-07","TCGA-S9-A7R4",46,"not hispanic or latino","male","white","'--","914","'--","'--","'--","'--","Radiation Therapy, NOS",30,1
+"TCGA-DU-7299-01A-21R-2027-07",1339,1,"TCGA-DU-7299-01A-21R-2027-07","TCGA-DU-7299",33,"not hispanic or latino","male","white","1339","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",45,1
+"TCGA-DU-7306-01A-11R-2090-07",1277,0,"TCGA-DU-7306-01A-11R-2090-07","TCGA-DU-7306",67,"not hispanic or latino","male","white","'--","1277","'--","'--","'--","'--","Radiation Therapy, NOS",43,1
+"TCGA-FG-6692-01A-11R-1896-07",561,1,"TCGA-FG-6692-01A-11R-1896-07","TCGA-FG-6692",63,"not hispanic or latino","male","white","561","413","'--","'--","'--","'--","Radiation Therapy, NOS",19,0
+"TCGA-DU-A5TT-01A-11R-A28M-07",743,0,"TCGA-DU-A5TT-01A-11R-A28M-07","TCGA-DU-A5TT",70,"not hispanic or latino","male","white","'--","743","'--","'--","'--","'--","Radiation Therapy, NOS",25,1
+"TCGA-TQ-A7RP-01A-21R-A34F-07",914,0,"TCGA-TQ-A7RP-01A-21R-A34F-07","TCGA-TQ-A7RP",66,"hispanic or latino","male","black or african american","'--","914","'--","'--","'--","'--","Radiation Therapy, NOS",30,1
+"TCGA-S9-A7IQ-01A-21R-A34F-07",1099,0,"TCGA-S9-A7IQ-01A-21R-A34F-07","TCGA-S9-A7IQ",45,"not hispanic or latino","female","white","'--","1099","'--","'--","'--","'--","Radiation Therapy, NOS",37,1
+"TCGA-HW-7489-01A-11R-2027-07",1262,1,"TCGA-HW-7489-01A-11R-2027-07","TCGA-HW-7489",38,"not hispanic or latino","male","white","1262","253","'--","'--","'--","'--","Radiation Therapy, NOS",42,1
+"TCGA-S9-A6WN-01A-12R-A33Z-07",805,0,"TCGA-S9-A6WN-01A-12R-A33Z-07","TCGA-S9-A6WN",38,"not hispanic or latino","female","white","'--","805","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",27,1
+"TCGA-TQ-A7RO-01A-11R-A33Z-07",949,0,"TCGA-TQ-A7RO-01A-11R-A33Z-07","TCGA-TQ-A7RO",29,"hispanic or latino","male","black or african american","'--","949","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",32,1
+"TCGA-HT-A5RC-01A-11R-A28M-07",162,1,"TCGA-HT-A5RC-01A-11R-A28M-07","TCGA-HT-A5RC",70,"not hispanic or latino","female","white","162","'--","'--","'--","'--","'--","Radiation Therapy, NOS",5,0
+"TCGA-DU-A5TP-01A-11R-A28M-07",1012,0,"TCGA-DU-A5TP-01A-11R-A28M-07","TCGA-DU-A5TP",33,"not hispanic or latino","male","white","'--","1012","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",34,1
+"TCGA-DU-8158-01A-11R-2256-07",155,1,"TCGA-DU-8158-01A-11R-2256-07","TCGA-DU-8158",57,"not hispanic or latino","female","white","155","'--","'--","'--","'--","'--","Radiation Therapy, NOS",5,0
+"TCGA-E1-A7YE-01A-11R-A34F-07",886,1,"TCGA-E1-A7YE-01A-11R-A34F-07","TCGA-E1-A7YE",32,"not hispanic or latino","female","white","886","'--","'--","'--","'--","'--","Radiation Therapy, NOS",30,1
+"TCGA-DB-A4XD-01A-11R-A27Q-07",1210,0,"TCGA-DB-A4XD-01A-11R-A27Q-07","TCGA-DB-A4XD",32,"not hispanic or latino","male","white","'--","1210","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",40,1
+"TCGA-CS-5393-01A-01R-1470-07",1222,0,"TCGA-CS-5393-01A-01R-1470-07","TCGA-CS-5393",39,"not reported","male","white","'--","1222","'--","'--","'--","'--","Radiation Therapy, NOS",41,1
+"TCGA-TM-A84C-01A-11R-A36H-07",492,1,"TCGA-TM-A84C-01A-11R-A36H-07","TCGA-TM-A84C",32,"not hispanic or latino","male","white","492","459","'--","'--","'--","'--","Radiation Therapy, NOS",16,0
+"TCGA-S9-A7R8-01A-11R-A34R-07",961,1,"TCGA-S9-A7R8-01A-11R-A34R-07","TCGA-S9-A7R8",44,"not hispanic or latino","female","white","961","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",32,1
+"TCGA-DU-7292-01A-11R-2027-07",242,1,"TCGA-DU-7292-01A-11R-2027-07","TCGA-DU-7292",69,"not hispanic or latino","male","white","242","'--","'--","'--","'--","'--","Radiation Therapy, NOS",8,0
+"TCGA-S9-A6WI-01A-21R-A33Z-07",2585,0,"TCGA-S9-A6WI-01A-21R-A33Z-07","TCGA-S9-A6WI",56,"not hispanic or latino","female","white","'--","2585","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",86,1
+"TCGA-DU-A5TW-01A-11R-A28M-07",760,0,"TCGA-DU-A5TW-01A-11R-A28M-07","TCGA-DU-A5TW",33,"not hispanic or latino","female","black or african american","'--","760","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",25,1
+"TCGA-S9-A7QZ-01A-12R-A34R-07",826,0,"TCGA-S9-A7QZ-01A-12R-A34R-07","TCGA-S9-A7QZ",41,"not hispanic or latino","male","white","'--","826","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",28,1
+"TCGA-HT-7480-01A-11R-2090-07",2287,0,"TCGA-HT-7480-01A-11R-2090-07","TCGA-HT-7480",33,"not hispanic or latino","male","white","'--","2287","'--","'--","'--","'--","Radiation Therapy, NOS",76,1
+"TCGA-DB-A4XG-01A-11R-A27Q-07",2219,0,"TCGA-DB-A4XG-01A-11R-A27Q-07","TCGA-DB-A4XG",34,"not hispanic or latino","male","white","'--","2219","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",74,1
+"TCGA-CS-6668-01A-11R-1896-07",1519,0,"TCGA-CS-6668-01A-11R-1896-07","TCGA-CS-6668",57,"not hispanic or latino","female","white","'--","1519","'--","'--","'--","'--","Radiation Therapy, NOS",51,1
+"TCGA-VW-A8FI-01A-11R-A36H-07",245,1,"TCGA-VW-A8FI-01A-11R-A36H-07","TCGA-VW-A8FI",66,"not hispanic or latino","male","white","245","'--","'--","'--","'--","'--","Radiation Therapy, NOS",8,0
+"TCGA-TM-A7C4-01A-11R-A32Q-07",1470,0,"TCGA-TM-A7C4-01A-11R-A32Q-07","TCGA-TM-A7C4",39,"not hispanic or latino","female","white","'--","1470","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",49,1
+"TCGA-S9-A7QY-01A-11R-A34F-07",863,0,"TCGA-S9-A7QY-01A-11R-A34F-07","TCGA-S9-A7QY",35,"not hispanic or latino","female","white","'--","863","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",29,1
+"TCGA-FG-8191-01A-11R-2256-07",992,0,"TCGA-FG-8191-01A-11R-2256-07","TCGA-FG-8191",30,"not hispanic or latino","male","white","'--","992","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",33,1
+"TCGA-E1-A7YI-01A-11R-A34F-07",111,1,"TCGA-E1-A7YI-01A-11R-A34F-07","TCGA-E1-A7YI",33,"not hispanic or latino","female","white","111","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",4,0
+"TCGA-HT-7856-01A-11R-2403-07",1189,0,"TCGA-HT-7856-01A-11R-2403-07","TCGA-HT-7856",35,"not hispanic or latino","male","white","'--","1189","'--","'--","'--","'--","Radiation Therapy, NOS",40,1
+"TCGA-S9-A6TZ-01A-21R-A32Q-07",1120,0,"TCGA-S9-A6TZ-01A-21R-A32Q-07","TCGA-S9-A6TZ",39,"not hispanic or latino","female","white","'--","1120","'--","'--","'--","'--","Radiation Therapy, NOS",37,1
+"TCGA-DU-A7TA-01A-11R-A33Z-07",2565,0,"TCGA-DU-A7TA-01A-11R-A33Z-07","TCGA-DU-A7TA",32,"not hispanic or latino","male","white","'--","2565","'--","'--","'--","'--","Radiation Therapy, NOS",86,1
+"TCGA-E1-5303-01A-01R-1470-07",2052,1,"TCGA-E1-5303-01A-01R-1470-07","TCGA-E1-5303",38,"not hispanic or latino","male","white","2052","'--","'--","'--","'--","'--","Radiation Therapy, NOS",68,1
+"TCGA-DU-5870-01A-11R-1708-07",5546,0,"TCGA-DU-5870-01A-11R-1708-07","TCGA-DU-5870",34,"not hispanic or latino","female","white","'--","5546","'--","'--","'--","'--","Radiation Therapy, NOS",185,1
+"TCGA-DU-A76L-01A-11R-A32Q-07",814,1,"TCGA-DU-A76L-01A-11R-A32Q-07","TCGA-DU-A76L",54,"not hispanic or latino","male","white","814","'--","'--","'--","'--","'--","Radiation Therapy, NOS",27,1
+"TCGA-DH-A66B-01A-11R-A29R-07",1279,0,"TCGA-DH-A66B-01A-11R-A29R-07","TCGA-DH-A66B",52,"not hispanic or latino","male","white","'--","1279","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",43,1
+"TCGA-DU-6399-01A-12R-1708-07",2000,1,"TCGA-DU-6399-01A-12R-1708-07","TCGA-DU-6399",54,"not hispanic or latino","male","white","2000","'--","'--","'--","'--","'--","Radiation Therapy, NOS",67,1
+"TCGA-E1-A7YH-01A-11R-A34F-07",2835,1,"TCGA-E1-A7YH-01A-11R-A34F-07","TCGA-E1-A7YH",47,"not hispanic or latino","female","white","2835","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",94,1
+"TCGA-HW-7490-01A-11R-2027-07",1387,0,"TCGA-HW-7490-01A-11R-2027-07","TCGA-HW-7490",41,"not hispanic or latino","male","white","'--","1387","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",46,1
+"TCGA-S9-A6U5-01A-12R-A33Z-07",992,0,"TCGA-S9-A6U5-01A-12R-A33Z-07","TCGA-S9-A6U5",33,"not hispanic or latino","male","white","'--","992","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",33,1
+"TCGA-S9-A6WH-01A-12R-A33Z-07",1173,0,"TCGA-S9-A6WH-01A-12R-A33Z-07","TCGA-S9-A6WH",73,"not hispanic or latino","female","white","'--","1173","'--","'--","'--","'--","Radiation Therapy, NOS",39,1
+"TCGA-S9-A6WL-01A-21R-A33Z-07",946,0,"TCGA-S9-A6WL-01A-21R-A33Z-07","TCGA-S9-A6WL",52,"not hispanic or latino","male","white","'--","946","'--","'--","'--","'--","Radiation Therapy, NOS",32,1
+"TCGA-DB-5276-01A-01R-1470-07",2218,0,"TCGA-DB-5276-01A-01R-1470-07","TCGA-DB-5276",32,"not hispanic or latino","male","white","'--","2218","'--","'--","'--","'--","Radiation Therapy, NOS",74,1
+"TCGA-TM-A84G-01A-11R-A36H-07",1236,0,"TCGA-TM-A84G-01A-11R-A36H-07","TCGA-TM-A84G",54,"not hispanic or latino","female","white","'--","1236","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",41,1
+"TCGA-DU-7304-01A-12R-2090-07",709,1,"TCGA-DU-7304-01A-12R-2090-07","TCGA-DU-7304",43,"not hispanic or latino","male","white","709","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",24,0
+"TCGA-S9-A6U2-01A-21R-A33Z-07",908,0,"TCGA-S9-A6U2-01A-21R-A33Z-07","TCGA-S9-A6U2",48,"not hispanic or latino","female","white","'--","908","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",30,1
+"TCGA-E1-A7Z4-01A-11R-A34R-07",4412,1,"TCGA-E1-A7Z4-01A-11R-A34R-07","TCGA-E1-A7Z4",35,"not hispanic or latino","male","white","4412","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",147,1
+"TCGA-CS-5396-01A-02R-1470-07",1631,0,"TCGA-CS-5396-01A-02R-1470-07","TCGA-CS-5396",53,"not hispanic or latino","female","white","'--","1631","'--","'--","'--","'--","Radiation Therapy, NOS",54,1
+"TCGA-E1-A7YM-01A-11R-A34F-07",648,1,"TCGA-E1-A7YM-01A-11R-A34F-07","TCGA-E1-A7YM",63,"not hispanic or latino","male","white","648","'--","'--","'--","'--","'--","Radiation Therapy, NOS",22,0
+"TCGA-DU-5852-01A-11R-1708-07",205,1,"TCGA-DU-5852-01A-11R-1708-07","TCGA-DU-5852",61,"not hispanic or latino","female","white","205","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",7,0
+"TCGA-HT-7611-01A-11R-2403-07",1752,0,"TCGA-HT-7611-01A-11R-2403-07","TCGA-HT-7611",36,"not hispanic or latino","male","white","'--","1752","'--","'--","'--","'--","Radiation Therapy, NOS",58,1
+"TCGA-S9-A6WD-01A-12R-A33Z-07",2289,0,"TCGA-S9-A6WD-01A-12R-A33Z-07","TCGA-S9-A6WD",58,"not hispanic or latino","male","white","'--","2289","'--","'--","'--","'--","Radiation Therapy, NOS",76,1
+"TCGA-DB-A4XF-01A-11R-A27Q-07",1021,0,"TCGA-DB-A4XF-01A-11R-A27Q-07","TCGA-DB-A4XF",41,"not hispanic or latino","female","white","'--","1021","'--","'--","'--","'--","Radiation Therapy, NOS",34,1
+"TCGA-FG-7637-01A-11R-2090-07",1219,0,"TCGA-FG-7637-01A-11R-2090-07","TCGA-FG-7637",49,"not hispanic or latino","male","white","'--","1219","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",41,1
+"TCGA-DU-6401-01A-11R-1708-07",2660,1,"TCGA-DU-6401-01A-11R-1708-07","TCGA-DU-6401",31,"not hispanic or latino","female","white","2660","'--","'--","'--","'--","'--","Radiation Therapy, NOS",89,1
+"TCGA-CS-6188-01A-11R-1896-07",814,1,"TCGA-CS-6188-01A-11R-1896-07","TCGA-CS-6188",48,"not hispanic or latino","male","white","814","725","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",27,1
+"TCGA-DU-A7TI-01A-11R-A33Z-07",1183,1,"TCGA-DU-A7TI-01A-11R-A33Z-07","TCGA-DU-A7TI",32,"not hispanic or latino","male","white","1183","'--","'--","'--","'--","'--","Radiation Therapy, NOS",39,1
+"TCGA-DB-A4XC-01A-11R-A26U-07",1421,0,"TCGA-DB-A4XC-01A-11R-A26U-07","TCGA-DB-A4XC",26,"not hispanic or latino","male","white","'--","1421","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",47,1
+"TCGA-CS-4942-01A-01R-1470-07",1335,1,"TCGA-CS-4942-01A-01R-1470-07","TCGA-CS-4942",44,"not reported","female","black or african american","1335","'--","'--","'--","'--","'--","Radiation Therapy, NOS",44,1
+"TCGA-DU-A7TG-01A-21R-A34R-07",1351,1,"TCGA-DU-A7TG-01A-21R-A34R-07","TCGA-DU-A7TG",40,"not hispanic or latino","male","white","1351","'--","'--","'--","'--","'--","Radiation Therapy, NOS",45,1
+"TCGA-TM-A84B-01A-11R-A36H-07",758,1,"TCGA-TM-A84B-01A-11R-A36H-07","TCGA-TM-A84B",40,"not hispanic or latino","male","white","758","365","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",25,1
+"TCGA-DU-6406-01A-11R-1708-07",512,1,"TCGA-DU-6406-01A-11R-1708-07","TCGA-DU-6406",59,"not hispanic or latino","female","white","512","'--","'--","'--","'--","'--","Radiation Therapy, NOS",17,0
+"TCGA-HT-7469-01A-11R-2256-07",351,1,"TCGA-HT-7469-01A-11R-2256-07","TCGA-HT-7469",30,"not hispanic or latino","male","white","351","238","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",12,0
+"TCGA-S9-A6U9-01A-11R-A32Q-07",2918,0,"TCGA-S9-A6U9-01A-11R-A32Q-07","TCGA-S9-A6U9",36,"not hispanic or latino","male","white","'--","2918","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",97,1
+"TCGA-DH-5143-01A-01R-1470-07",1401,0,"TCGA-DH-5143-01A-01R-1470-07","TCGA-DH-5143",30,"not hispanic or latino","male","white","'--","1401","'--","'--","'--","'--","Radiation Therapy, NOS",47,1
+"TCGA-E1-A7YQ-01A-11R-A34R-07",1578,1,"TCGA-E1-A7YQ-01A-11R-A34R-07","TCGA-E1-A7YQ",58,"not hispanic or latino","female","black or african american","1578","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",53,1
+"TCGA-DU-7301-01A-11R-2090-07",788,1,"TCGA-DU-7301-01A-11R-2090-07","TCGA-DU-7301",53,"not hispanic or latino","male","white","788","'--","'--","'--","'--","'--","Radiation Therapy, NOS",26,1
+"TCGA-HT-7610-01A-21R-2090-07",1706,0,"TCGA-HT-7610-01A-21R-2090-07","TCGA-HT-7610",25,"not hispanic or latino","female","white","'--","1706","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",57,1
+"TCGA-DB-A4X9-01A-11R-A26U-07",1412,0,"TCGA-DB-A4X9-01A-11R-A26U-07","TCGA-DB-A4X9",33,"not hispanic or latino","female","white","'--","1412","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",47,1
+"TCGA-DU-6408-01A-11R-1708-07",3470,1,"TCGA-DU-6408-01A-11R-1708-07","TCGA-DU-6408",23,"not hispanic or latino","female","white","3470","'--","'--","'--","'--","'--","Radiation Therapy, NOS",116,1
+"TCGA-CS-6670-01A-11R-1896-07",1426,0,"TCGA-CS-6670-01A-11R-1896-07","TCGA-CS-6670",43,"not hispanic or latino","male","white","'--","1426","'--","'--","'--","'--","Radiation Therapy, NOS",48,1
+"TCGA-DU-A7TB-01A-11R-A33Z-07",1567,0,"TCGA-DU-A7TB-01A-11R-A33Z-07","TCGA-DU-A7TB",56,"not hispanic or latino","male","asian","'--","1567","'--","'--","'--","'--","Radiation Therapy, NOS",52,1
+"TCGA-DU-A76K-01A-11R-A33Z-07",347,1,"TCGA-DU-A76K-01A-11R-A33Z-07","TCGA-DU-A76K",87,"not hispanic or latino","male","white","347","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",12,0
+"TCGA-DU-7010-01A-11R-2027-07",456,1,"TCGA-DU-7010-01A-11R-2027-07","TCGA-DU-7010",58,"not hispanic or latino","female","white","456","'--","'--","'--","'--","'--","Radiation Therapy, NOS",15,0
+"TCGA-TM-A84F-01A-11R-A36H-07",1796,0,"TCGA-TM-A84F-01A-11R-A36H-07","TCGA-TM-A84F",48,"not hispanic or latino","male","white","'--","1796","'--","'--","'--","'--","Radiation Therapy, NOS",60,1
+"TCGA-FN-7833-01A-11R-2090-07",837,0,"TCGA-FN-7833-01A-11R-2090-07","TCGA-FN-7833",25,"not hispanic or latino","male","white","'--","837","'--","'--","'--","'--","Radiation Therapy, NOS",28,1
+"TCGA-E1-5319-01A-01R-1896-07",2907,1,"TCGA-E1-5319-01A-01R-1896-07","TCGA-E1-5319",48,"not hispanic or latino","female","white","2907","'--","'--","'--","'--","'--","Radiation Therapy, NOS",97,1
+"TCGA-HW-8322-01A-11R-2404-07",758,0,"TCGA-HW-8322-01A-11R-2404-07","TCGA-HW-8322",39,"not hispanic or latino","male","white","'--","758","'--","'--","'--","'--","Radiation Therapy, NOS",25,1
+"TCGA-E1-A7YD-01A-11R-A34F-07",435,1,"TCGA-E1-A7YD-01A-11R-A34F-07","TCGA-E1-A7YD",57,"not hispanic or latino","male","white","435","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",14,0
+"TCGA-CS-6186-01A-12R-2027-07",538,1,"TCGA-CS-6186-01A-12R-2027-07","TCGA-CS-6186",58,"not hispanic or latino","male","white","538","'--","'--","'--","'--","'--","Radiation Therapy, NOS",18,0
+"TCGA-VM-A8C9-01A-11R-A36H-07",1314,0,"TCGA-VM-A8C9-01A-11R-A36H-07","TCGA-VM-A8C9",37,"not reported","female","not reported","'--","1314","'--","'--","'--","'--","Radiation Therapy, NOS",44,1
+"TCGA-WY-A85C-01A-11R-A36H-07",1426,0,"TCGA-WY-A85C-01A-11R-A36H-07","TCGA-WY-A85C",36,"not reported","male","white","'--","1426","'--","'--","'--","'--","Radiation Therapy, NOS",48,1
+"TCGA-DU-7006-01A-11R-2027-07",349,1,"TCGA-DU-7006-01A-11R-2027-07","TCGA-DU-7006",60,"not hispanic or latino","female","white","349","'--","'--","'--","'--","'--","Radiation Therapy, NOS",12,0
+"TCGA-S9-A6U1-01A-21R-A33Z-07",785,0,"TCGA-S9-A6U1-01A-21R-A33Z-07","TCGA-S9-A6U1",22,"not hispanic or latino","female","white","'--","785","'--","'--","'--","'--","Radiation Therapy, NOS",26,1
+"TCGA-TM-A84O-01A-11R-A36H-07",1011,1,"TCGA-TM-A84O-01A-11R-A36H-07","TCGA-TM-A84O",61,"not hispanic or latino","female","white","1011","'--","'--","'--","'--","'--","Radiation Therapy, NOS",34,1
+"TCGA-S9-A6WE-01A-12R-A33Z-07",4113,0,"TCGA-S9-A6WE-01A-12R-A33Z-07","TCGA-S9-A6WE",34,"not hispanic or latino","male","white","'--","4113","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",137,1
+"TCGA-DB-5274-01A-01R-1470-07",2289,0,"TCGA-DB-5274-01A-01R-1470-07","TCGA-DB-5274",37,"not hispanic or latino","female","white","'--","2289","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",76,1
+"TCGA-TQ-A7RQ-01A-11R-A33Z-07",795,0,"TCGA-TQ-A7RQ-01A-11R-A33Z-07","TCGA-TQ-A7RQ",38,"hispanic or latino","female","white","'--","795","'--","'--","'--","'--","Radiation Therapy, NOS",26,1
+"TCGA-RY-A83X-01A-11R-A36H-07",939,0,"TCGA-RY-A83X-01A-11R-A36H-07","TCGA-RY-A83X",46,"not hispanic or latino","female","white","'--","939","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",31,1
+"TCGA-DU-7302-01A-11R-2090-07",1834,0,"TCGA-DU-7302-01A-11R-2090-07","TCGA-DU-7302",48,"not hispanic or latino","female","white","'--","1834","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",61,1
+"TCGA-CS-6290-01A-11R-1708-07",1137,1,"TCGA-CS-6290-01A-11R-1708-07","TCGA-CS-6290",31,"not reported","male","not reported","1137","546","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",38,1
+"TCGA-HT-7881-01A-11R-2403-07",1079,0,"TCGA-HT-7881-01A-11R-2403-07","TCGA-HT-7881",38,"not hispanic or latino","male","black or african american","'--","1079","'--","'--","'--","'--","Radiation Therapy, NOS",36,1
+"TCGA-HW-7486-01A-11R-2027-07",1721,0,"TCGA-HW-7486-01A-11R-2027-07","TCGA-HW-7486",37,"not hispanic or latino","male","white","'--","1721","'--","'--","'--","'--","Radiation Therapy, NOS",57,1
+"TCGA-S9-A6U6-01A-12R-A33Z-07",1069,0,"TCGA-S9-A6U6-01A-12R-A33Z-07","TCGA-S9-A6U6",28,"not hispanic or latino","male","white","'--","1069","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",36,1
+"TCGA-FG-A4MW-01A-11R-A26U-07",559,1,"TCGA-FG-A4MW-01A-11R-A26U-07","TCGA-FG-A4MW",63,"not hispanic or latino","male","white","559","160","'--","'--","'--","'--","Radiation Therapy, NOS",19,0
+"TCGA-DU-6392-01A-11R-1708-07",6423,0,"TCGA-DU-6392-01A-11R-1708-07","TCGA-DU-6392",35,"not hispanic or latino","female","white","'--","6423","'--","'--","'--","'--","Radiation Therapy, NOS",214,1
+"TCGA-TM-A7CF-01A-11R-A32Q-07",1989,0,"TCGA-TM-A7CF-01A-11R-A32Q-07","TCGA-TM-A7CF",41,"not hispanic or latino","female","white","'--","1989","'--","'--","'--","'--","Radiation Therapy, NOS",66,1
+"TCGA-DU-6405-01A-11R-1708-07",605,1,"TCGA-DU-6405-01A-11R-1708-07","TCGA-DU-6405",51,"not hispanic or latino","female","white","605","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",20,0
+"TCGA-DU-6403-01A-11R-1708-07",354,1,"TCGA-DU-6403-01A-11R-1708-07","TCGA-DU-6403",60,"not hispanic or latino","female","white","354","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",12,0
+"TCGA-E1-A7Z3-01A-11R-A34R-07",2235,1,"TCGA-E1-A7Z3-01A-11R-A34R-07","TCGA-E1-A7Z3",31,"not hispanic or latino","female","black or african american","2235","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",74,1
+"TCGA-DB-A4XB-01A-11R-A26U-07",919,0,"TCGA-DB-A4XB-01A-11R-A26U-07","TCGA-DB-A4XB",38,"not hispanic or latino","male","white","'--","919","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",31,1
+"TCGA-DU-6404-01A-11R-1708-07",4068,1,"TCGA-DU-6404-01A-11R-1708-07","TCGA-DU-6404",24,"not hispanic or latino","female","white","4068","'--","'--","'--","'--","'--","Radiation Therapy, NOS",136,1
+"TCGA-FG-A710-01A-12R-A33Z-07",1115,0,"TCGA-FG-A710-01A-12R-A33Z-07","TCGA-FG-A710",50,"not hispanic or latino","female","white","'--","1115","'--","'--","'--","'--","Radiation Therapy, NOS",37,1
+"TCGA-DB-5277-01A-01R-1470-07",1547,1,"TCGA-DB-5277-01A-01R-1470-07","TCGA-DB-5277",34,"not hispanic or latino","male","white","1547","1419","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",52,1
+"TCGA-TM-A84L-01A-11R-A36H-07",1242,1,"TCGA-TM-A84L-01A-11R-A36H-07","TCGA-TM-A84L",31,"not hispanic or latino","male","white","1242","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",41,1
+"TCGA-FG-A711-01A-21R-A33Z-07",1481,1,"TCGA-FG-A711-01A-21R-A33Z-07","TCGA-FG-A711",33,"not hispanic or latino","female","white","1481","1329","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",49,1
+"TCGA-E1-5305-01A-01R-1896-07",2433,1,"TCGA-E1-5305-01A-01R-1896-07","TCGA-E1-5305",34,"not hispanic or latino","male","white","2433","'--","'--","'--","'--","'--","Radiation Therapy, NOS",81,1
+"TCGA-DU-6395-01A-13R-1708-07",1491,1,"TCGA-DU-6395-01A-13R-1708-07","TCGA-DU-6395",31,"not hispanic or latino","male","white","1491","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",50,1
+"TCGA-DU-6400-01A-12R-1708-07",37,1,"TCGA-DU-6400-01A-12R-1708-07","TCGA-DU-6400",66,"not hispanic or latino","female","white","37","'--","'--","'--","'--","'--","Radiation Therapy, NOS",1,0
+"TCGA-TQ-A7RV-01A-21R-A34F-07",1868,0,"TCGA-TQ-A7RV-01A-21R-A34F-07","TCGA-TQ-A7RV",27,"hispanic or latino","male","white","'--","1868","'--","'--","'--","'--","Radiation Therapy, NOS",62,1
+"TCGA-TQ-A7RW-01A-11R-A33Z-07",821,1,"TCGA-TQ-A7RW-01A-11R-A33Z-07","TCGA-TQ-A7RW",32,"hispanic or latino","male","white","821","'--","'--","'--","'--","'--","Radiation Therapy, NOS",27,1
+"TCGA-DU-7008-01A-11R-2027-07",4752,0,"TCGA-DU-7008-01A-11R-2027-07","TCGA-DU-7008",41,"not hispanic or latino","female","white","'--","4752","'--","'--","'--","'--","Radiation Therapy, NOS",158,1
+"TCGA-HW-A5KJ-01A-12R-A27Q-07",962,1,"TCGA-HW-A5KJ-01A-12R-A27Q-07","TCGA-HW-A5KJ",68,"not reported","male","white","962","860","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",32,1
+"TCGA-DU-7300-01A-21R-2090-07",1886,1,"TCGA-DU-7300-01A-21R-2090-07","TCGA-DU-7300",53,"not hispanic or latino","female","white","1886","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",63,1
+"TCGA-E1-5322-01A-01R-1470-07",3978,1,"TCGA-E1-5322-01A-01R-1470-07","TCGA-E1-5322",38,"not hispanic or latino","female","white","3978","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",133,1
+"TCGA-TM-A84J-01A-11R-A36H-07",735,0,"TCGA-TM-A84J-01A-11R-A36H-07","TCGA-TM-A84J",63,"not hispanic or latino","male","white","'--","735","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",24,1
+"TCGA-E1-5307-01A-01R-1896-07",1762,1,"TCGA-E1-5307-01A-01R-1896-07","TCGA-E1-5307",62,"not hispanic or latino","female","white","1762","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",59,1
+"TCGA-DU-A7T6-01A-11R-A33Z-07",547,1,"TCGA-DU-A7T6-01A-11R-A33Z-07","TCGA-DU-A7T6",73,"not hispanic or latino","female","white","547","'--","'--","'--","'--","'--","Radiation Therapy, NOS",18,0
+"TCGA-TM-A84M-01A-11R-A36H-07",754,0,"TCGA-TM-A84M-01A-11R-A36H-07","TCGA-TM-A84M",40,"not hispanic or latino","male","white","'--","754","'--","'--","'--","'--","Radiation Therapy, NOS",25,1
+"TCGA-CS-4943-01A-01R-1470-07",1106,1,"TCGA-CS-4943-01A-01R-1470-07","TCGA-CS-4943",37,"not reported","male","white","1106","552","'--","'--","'--","'--","Radiation Therapy, NOS",37,1
+"TCGA-HT-8019-01A-21R-2404-07",1004,0,"TCGA-HT-8019-01A-21R-2404-07","TCGA-HT-8019",34,"not hispanic or latino","female","white","'--","1004","'--","'--","'--","'--","Radiation Therapy, NOS",33,1
+"TCGA-DU-7009-01A-11R-2027-07",4695,1,"TCGA-DU-7009-01A-11R-2027-07","TCGA-DU-7009",32,"not hispanic or latino","female","white","4695","4206","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",156,1
+"TCGA-HT-7482-01A-11R-2027-07",3253,0,"TCGA-HT-7482-01A-11R-2027-07","TCGA-HT-7482",18,"not hispanic or latino","female","white","'--","3253","'--","'--","'--","'--","Radiation Therapy, NOS",108,1
+"TCGA-DB-A64V-01A-11R-A29R-07",889,0,"TCGA-DB-A64V-01A-11R-A29R-07","TCGA-DB-A64V",54,"not hispanic or latino","male","white","'--","889","'--","'--","'--","'--","Radiation Therapy, NOS",30,1
+"TCGA-DU-7290-01A-11R-2027-07",315,1,"TCGA-DU-7290-01A-11R-2027-07","TCGA-DU-7290",45,"not hispanic or latino","female","white","315","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",10,0
+"TCGA-FG-8181-01A-11R-2256-07",862,0,"TCGA-FG-8181-01A-11R-2256-07","TCGA-FG-8181",23,"not hispanic or latino","male","white","'--","862","'--","'--","'--","'--","Radiation Therapy, NOS",29,1
+"TCGA-HT-7607-01A-11R-2090-07",96,1,"TCGA-HT-7607-01A-11R-2090-07","TCGA-HT-7607",61,"not hispanic or latino","female","white","96","'--","'--","'--","'--","'--","Radiation Therapy, NOS",3,0
+"TCGA-HW-A5KK-01A-11R-A27Q-07",388,1,"TCGA-HW-A5KK-01A-11R-A27Q-07","TCGA-HW-A5KK",64,"not reported","male","white","388","240","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",13,0
+"TCGA-DU-7019-01A-11R-2027-07",800,0,"TCGA-DU-7019-01A-11R-2027-07","TCGA-DU-7019",39,"not hispanic or latino","male","white","'--","800","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",27,1
+"TCGA-DU-7007-01A-11R-2027-07",1915,1,"TCGA-DU-7007-01A-11R-2027-07","TCGA-DU-7007",33,"not hispanic or latino","male","white","1915","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",64,1
+"TCGA-VM-A8CD-01A-11R-A36H-07",240,1,"TCGA-VM-A8CD-01A-11R-A36H-07","TCGA-VM-A8CD",58,"not reported","male","white","240","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",8,0
+"TCGA-HT-7604-01A-11R-2090-07",3725,0,"TCGA-HT-7604-01A-11R-2090-07","TCGA-HT-7604",50,"not hispanic or latino","male","black or african american","'--","3725","'--","'--","'--","'--","Radiation Therapy, NOS",124,1
+"TCGA-DB-A64U-01A-11R-A29R-07",846,0,"TCGA-DB-A64U-01A-11R-A29R-07","TCGA-DB-A64U",38,"not hispanic or latino","female","white","'--","846","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",28,1
+"TCGA-DH-A669-01A-12R-A31N-07",919,1,"TCGA-DH-A669-01A-12R-A31N-07","TCGA-DH-A669",70,"not hispanic or latino","male","white","919","'--","'--","'--","'--","'--","Radiation Therapy, NOS",31,1
+"TCGA-VM-A8CE-01A-11R-A36H-07",1191,0,"TCGA-VM-A8CE-01A-11R-A36H-07","TCGA-VM-A8CE",25,"not reported","male","white","'--","1191","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",40,1
+"TCGA-FG-5964-01A-11R-1708-07",1588,0,"TCGA-FG-5964-01A-11R-1708-07","TCGA-FG-5964",62,"not hispanic or latino","male","white","'--","1588","'--","'--","'--","'--","Radiation Therapy, NOS",53,1
+"TCGA-DU-A7T8-01A-21R-A34R-07",4229,1,"TCGA-DU-A7T8-01A-21R-A34R-07","TCGA-DU-A7T8",35,"not hispanic or latino","male","white","4229","3787","'--","'--","'--","'--","Radiation Therapy, NOS",141,1
+"TCGA-HT-7609-01A-11R-2090-07",1399,0,"TCGA-HT-7609-01A-11R-2090-07","TCGA-HT-7609",34,"not hispanic or latino","male","white","'--","1399","'--","'--","'--","'--","Radiation Therapy, NOS",47,1
+"TCGA-DU-7014-01A-11R-2027-07",3571,1,"TCGA-DU-7014-01A-11R-2027-07","TCGA-DU-7014",59,"not hispanic or latino","male","white","3571","'--","'--","'--","'--","'--","Radiation Therapy, NOS",119,1
+"TCGA-HT-7688-01A-11R-2256-07",964,0,"TCGA-HT-7688-01A-11R-2256-07","TCGA-HT-7688",59,"not hispanic or latino","male","white","'--","964","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",32,1
+"TCGA-E1-A7YY-01A-11R-A34R-07",4445,1,"TCGA-E1-A7YY-01A-11R-A34R-07","TCGA-E1-A7YY",27,"not hispanic or latino","female","white","4445","'--","'--","'--","'--","'--","Radiation Therapy, NOS",148,1
+"TCGA-DU-A6S2-01A-21R-A32Q-07",777,0,"TCGA-DU-A6S2-01A-21R-A32Q-07","TCGA-DU-A6S2",37,"not hispanic or latino","female","black or african american","'--","777","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",26,1
+"TCGA-S9-A6TS-01A-12R-A33Z-07",1891,1,"TCGA-S9-A6TS-01A-12R-A33Z-07","TCGA-S9-A6TS",48,"not hispanic or latino","female","white","1891","'--","'--","'--","'--","'--","Radiation Therapy, NOS",63,1
+"TCGA-DB-5280-01A-01R-1470-07",1112,0,"TCGA-DB-5280-01A-01R-1470-07","TCGA-DB-5280",43,"not hispanic or latino","male","white","'--","1112","'--","'--","'--","'--","Radiation Therapy, NOS",37,1
+"TCGA-E1-A7Z2-01A-21R-A34R-07",398,1,"TCGA-E1-A7Z2-01A-21R-A34R-07","TCGA-E1-A7Z2",58,"not hispanic or latino","female","white","398","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",13,0
+"TCGA-WY-A85B-01A-11R-A36H-07",1393,0,"TCGA-WY-A85B-01A-11R-A36H-07","TCGA-WY-A85B",24,"not reported","male","white","'--","1393","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",46,1
+"TCGA-TQ-A8XE-01A-11R-A36H-07",954,1,"TCGA-TQ-A8XE-01A-11R-A36H-07","TCGA-TQ-A8XE",42,"hispanic or latino","female","white","954","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",32,1
+"TCGA-DB-A64L-01A-11R-A29R-07",736,0,"TCGA-DB-A64L-01A-11R-A29R-07","TCGA-DB-A64L",67,"not hispanic or latino","female","white","'--","736","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",25,1
+"TCGA-E1-A7YW-01A-11R-A34R-07",1120,1,"TCGA-E1-A7YW-01A-11R-A34R-07","TCGA-E1-A7YW",28,"not hispanic or latino","male","white","1120","'--","'--","'--","'--","'--","Radiation Therapy, NOS",37,1
+"TCGA-FG-6690-01A-11R-1896-07",1294,0,"TCGA-FG-6690-01A-11R-1896-07","TCGA-FG-6690",70,"not hispanic or latino","male","white","'--","1294","'--","'--","'--","'--","Radiation Therapy, NOS",43,1
+"TCGA-DU-7294-01A-11R-2027-07",2869,0,"TCGA-DU-7294-01A-11R-2027-07","TCGA-DU-7294",53,"not hispanic or latino","female","white","'--","2869","'--","'--","'--","'--","Radiation Therapy, NOS",96,1
+"TCGA-TQ-A7RK-01A-11R-A33Z-07",1341,0,"TCGA-TQ-A7RK-01A-11R-A33Z-07","TCGA-TQ-A7RK",29,"hispanic or latino","male","white","'--","1341","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",45,1
+"TCGA-DU-6407-01A-13R-1708-07",2875,1,"TCGA-DU-6407-01A-13R-1708-07","TCGA-DU-6407",35,"not hispanic or latino","female","white","2875","'--","'--","'--","'--","'--","Radiation Therapy, NOS",96,1
+"TCGA-DB-A4XH-01A-11R-A27Q-07",962,0,"TCGA-DB-A4XH-01A-11R-A27Q-07","TCGA-DB-A4XH",53,"not hispanic or latino","female","white","'--","962","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",32,1
+"TCGA-QH-A6CX-01A-11R-A32Q-07",372,1,"TCGA-QH-A6CX-01A-11R-A32Q-07","TCGA-QH-A6CX",66,"not hispanic or latino","male","white","372","-1","'--","'--","'--","'--","Radiation Therapy, NOS",12,0
+"TCGA-DU-6394-01A-11R-1708-07",682,1,"TCGA-DU-6394-01A-11R-1708-07","TCGA-DU-6394",53,"not hispanic or latino","male","white","682","'--","'--","'--","'--","'--","Radiation Therapy, NOS",23,0
+"TCGA-WY-A85D-01A-11R-A36H-07",1147,0,"TCGA-WY-A85D-01A-11R-A36H-07","TCGA-WY-A85D",60,"not reported","male","white","'--","1147","'--","'--","'--","'--","Radiation Therapy, NOS",38,1
+"TCGA-E1-A7YJ-01A-11R-A34F-07",592,1,"TCGA-E1-A7YJ-01A-11R-A34F-07","TCGA-E1-A7YJ",55,"not hispanic or latino","male","white","592","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",20,0
+"TCGA-TM-A84Q-01A-11R-A36H-07",772,0,"TCGA-TM-A84Q-01A-11R-A36H-07","TCGA-TM-A84Q",31,"not hispanic or latino","male","white","'--","772","'--","'--","'--","'--","Radiation Therapy, NOS",26,1
+"TCGA-CS-4944-01A-01R-1470-07",1828,0,"TCGA-CS-4944-01A-01R-1470-07","TCGA-CS-4944",50,"not reported","male","white","'--","1828","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",61,1
+"TCGA-DU-7015-01A-11R-2027-07",2761,0,"TCGA-DU-7015-01A-11R-2027-07","TCGA-DU-7015",41,"not hispanic or latino","female","white","'--","2761","'--","'--","'--","'--","Radiation Therapy, NOS",92,1
+"TCGA-FG-5963-01A-11R-1708-07",775,1,"TCGA-FG-5963-01A-11R-1708-07","TCGA-FG-5963",23,"not hispanic or latino","male","white","775","547","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",26,1
+"TCGA-FG-A70Y-01A-12R-A34R-07",868,0,"TCGA-FG-A70Y-01A-12R-A34R-07","TCGA-FG-A70Y",20,"not hispanic or latino","female","white","'--","868","'--","'--","'--","'--","Radiation Therapy, NOS",29,1
+"TCGA-DB-5273-01A-01R-1470-07",2493,0,"TCGA-DB-5273-01A-01R-1470-07","TCGA-DB-5273",33,"not hispanic or latino","male","white","'--","2493","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",83,1
+"TCGA-HW-7491-01A-11R-2027-07",2078,0,"TCGA-HW-7491-01A-11R-2027-07","TCGA-HW-7491",35,"not reported","male","white","'--","2078","'--","'--","'--","'--","Radiation Therapy, NOS",69,1
+"TCGA-DB-A64W-01A-11R-A29R-07",438,1,"TCGA-DB-A64W-01A-11R-A29R-07","TCGA-DB-A64W",65,"not hispanic or latino","female","white","438","415","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",15,0
+"TCGA-HW-8320-01A-11R-2404-07",1217,0,"TCGA-HW-8320-01A-11R-2404-07","TCGA-HW-8320",36,"not hispanic or latino","male","white","'--","1217","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",41,1
+"TCGA-HW-A5KL-01A-11R-A27Q-07",878,0,"TCGA-HW-A5KL-01A-11R-A27Q-07","TCGA-HW-A5KL",42,"not reported","female","white","'--","878","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",29,1
+"TCGA-IK-8125-01A-11R-2256-07",1301,0,"TCGA-IK-8125-01A-11R-2256-07","TCGA-IK-8125",62,"not hispanic or latino","male","white","'--","1301","'--","'--","'--","'--","Radiation Therapy, NOS",43,1
+"TCGA-HW-8321-01A-11R-2404-07",1294,0,"TCGA-HW-8321-01A-11R-2404-07","TCGA-HW-8321",31,"not hispanic or latino","male","white","'--","1294","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",43,1
+"TCGA-HW-7493-01A-11R-2027-07",2107,0,"TCGA-HW-7493-01A-11R-2027-07","TCGA-HW-7493",40,"not hispanic or latino","female","white","'--","2107","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",70,1
+"TCGA-HT-8114-01A-11R-2404-07",1040,0,"TCGA-HT-8114-01A-11R-2404-07","TCGA-HT-8114",36,"not hispanic or latino","male","white","'--","1040","'--","'--","'--","'--","Radiation Therapy, NOS",35,1
+"TCGA-HT-8113-01A-11R-2404-07",900,0,"TCGA-HT-8113-01A-11R-2404-07","TCGA-HT-8113",49,"not hispanic or latino","female","black or african american","'--","900","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",30,1
+"TCGA-DU-8162-01A-21R-2256-07",444,1,"TCGA-DU-8162-01A-21R-2256-07","TCGA-DU-8162",61,"not hispanic or latino","female","white","444","121","'--","'--","'--","'--","Radiation Therapy, NOS",15,0
+"TCGA-DU-A5TR-01A-11R-A28M-07",908,0,"TCGA-DU-A5TR-01A-11R-A28M-07","TCGA-DU-A5TR",51,"not hispanic or latino","male","white","'--","908","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",30,1
+"TCGA-S9-A6U8-01A-21R-A33Z-07",2988,1,"TCGA-S9-A6U8-01A-21R-A33Z-07","TCGA-S9-A6U8",24,"not hispanic or latino","male","white","2988","2878","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",100,1
+"TCGA-HT-7854-01A-11R-2256-07",1201,0,"TCGA-HT-7854-01A-11R-2256-07","TCGA-HT-7854",62,"not hispanic or latino","male","white","'--","1201","'--","'--","'--","'--","Radiation Therapy, NOS",40,1
+"TCGA-DU-A5TS-01A-11R-A28M-07",964,0,"TCGA-DU-A5TS-01A-11R-A28M-07","TCGA-DU-A5TS",42,"not hispanic or latino","male","black or african american","'--","964","'--","'--","'--","'--","Radiation Therapy, NOS",32,1
+"TCGA-E1-A7YS-01A-11R-A34F-07",466,1,"TCGA-E1-A7YS-01A-11R-A34F-07","TCGA-E1-A7YS",71,"not hispanic or latino","male","black or african american","466","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",16,0
+"TCGA-TQ-A7RN-01A-11R-A33Z-07",1026,0,"TCGA-TQ-A7RN-01A-11R-A33Z-07","TCGA-TQ-A7RN",32,"hispanic or latino","male","white","'--","1026","'--","'--","'--","'--","Radiation Therapy, NOS",34,1
+"TCGA-TQ-A7RR-01A-21R-A34F-07",787,0,"TCGA-TQ-A7RR-01A-21R-A34F-07","TCGA-TQ-A7RR",38,"hispanic or latino","male","white","'--","787","'--","'--","'--","'--","Radiation Therapy, NOS",26,1
+"TCGA-CS-5395-01A-01R-1470-07",639,1,"TCGA-CS-5395-01A-01R-1470-07","TCGA-CS-5395",43,"not reported","male","black or african american","639","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",21,0
+"TCGA-HW-7495-01A-11R-2027-07",1078,0,"TCGA-HW-7495-01A-11R-2027-07","TCGA-HW-7495",45,"not hispanic or latino","female","white","'--","1078","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",36,1
+"TCGA-R8-A6ML-01A-11R-A32Q-07",2860,0,"TCGA-R8-A6ML-01A-11R-A32Q-07","TCGA-R8-A6ML",52,"hispanic or latino","male","white","'--","2860","'--","'--","'--","'--","Radiation Therapy, NOS",95,1
+"TCGA-DB-5281-01A-01R-1470-07",2381,0,"TCGA-DB-5281-01A-01R-1470-07","TCGA-DB-5281",61,"not hispanic or latino","male","white","'--","2381","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",79,1
+"TCGA-HT-A4DV-01A-11R-A26U-07",792,0,"TCGA-HT-A4DV-01A-11R-A26U-07","TCGA-HT-A4DV",51,"not hispanic or latino","female","white","'--","792","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",26,1
+"TCGA-TM-A84H-01A-11R-A36H-07",926,0,"TCGA-TM-A84H-01A-11R-A36H-07","TCGA-TM-A84H",44,"not hispanic or latino","female","white","'--","926","'--","'--","'--","'--","Radiation Therapy, NOS",31,1
+"TCGA-TM-A7CA-01A-21R-A33Z-07",1058,0,"TCGA-TM-A7CA-01A-21R-A33Z-07","TCGA-TM-A7CA",44,"not hispanic or latino","male","white","'--","1058","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",35,1
+"TCGA-TQ-A7RJ-01A-11R-A33Z-07",1229,0,"TCGA-TQ-A7RJ-01A-11R-A33Z-07","TCGA-TQ-A7RJ",25,"hispanic or latino","female","white","'--","1229","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",41,1
+"TCGA-DH-5142-01A-01R-1470-07",1943,0,"TCGA-DH-5142-01A-01R-1470-07","TCGA-DH-5142",29,"not hispanic or latino","male","white","'--","1943","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",65,1
+"TCGA-DU-A76R-01A-11R-A32Q-07",648,1,"TCGA-DU-A76R-01A-11R-A32Q-07","TCGA-DU-A76R",51,"not hispanic or latino","male","white","648","'--","'--","'--","'--","'--","Radiation Therapy, NOS",22,0
+"TCGA-DU-7012-01A-11R-2027-07",199,1,"TCGA-DU-7012-01A-11R-2027-07","TCGA-DU-7012",74,"not hispanic or latino","female","black or african american","199","'--","'--","'--","'--","'--","Radiation Therapy, NOS",7,0
+"TCGA-R8-A73M-01A-11R-A32Q-07",1806,0,"TCGA-R8-A73M-01A-11R-A32Q-07","TCGA-R8-A73M",48,"not hispanic or latino","female","white","'--","1806","'--","'--","'--","'--","Radiation Therapy, NOS",60,1
+"TCGA-S9-A7R3-01A-11R-A34R-07",3013,0,"TCGA-S9-A7R3-01A-11R-A34R-07","TCGA-S9-A7R3",28,"not hispanic or latino","female","white","'--","3013","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",100,1
+"TCGA-TQ-A7RU-01A-21R-A34F-07",1032,0,"TCGA-TQ-A7RU-01A-21R-A34F-07","TCGA-TQ-A7RU",51,"hispanic or latino","male","white","'--","1032","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",34,1
+"TCGA-S9-A6TY-01A-12R-A32Q-07",1076,0,"TCGA-S9-A6TY-01A-12R-A32Q-07","TCGA-S9-A6TY",50,"not hispanic or latino","male","white","'--","1076","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",36,1
+"TCGA-HT-7470-01A-12R-2090-07",1220,1,"TCGA-HT-7470-01A-12R-2090-07","TCGA-HT-7470",37,"not hispanic or latino","male","white","1220","268","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",41,1
+"TCGA-DU-6402-01A-11R-1708-07",214,1,"TCGA-DU-6402-01A-11R-1708-07","TCGA-DU-6402",52,"not hispanic or latino","male","white","214","'--","'--","'--","'--","'--","Radiation Therapy, NOS",7,0
+"TCGA-DU-A5TY-01A-11R-A28M-07",1033,1,"TCGA-DU-A5TY-01A-11R-A28M-07","TCGA-DU-A5TY",46,"not hispanic or latino","female","white","1033","371","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",34,1
+"TCGA-DU-A7TD-01A-12R-A34F-07",228,1,"TCGA-DU-A7TD-01A-12R-A34F-07","TCGA-DU-A7TD",52,"not hispanic or latino","male","white","228","'--","'--","'--","'--","'--","Pharmaceutical Therapy, NOS",8,0
